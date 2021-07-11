@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a118july_recyclerview_2_birds_grid_view_css_you_1",
+  "variantName": "debug",
+  "elements": []
+}
